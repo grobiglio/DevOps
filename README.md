@@ -5,5 +5,5 @@ En este repositorio dejo algunas notas del curso de Imran Teli en Udemy, [DevOps
 ## Contenido
 
 - [Repositorio de la materia](https://github.com/imnowdevops/ddc-material)
-- Guía rápida de Linux
-- Editor de texto Vim
+- [Guía rápida de Linux](https://github.com/grobiglio/DevOps/blob/main/Linux%2BQuickstart%2BV5.pdf)
+- [Editor de texto Vim](https://github.com/grobiglio/DevOps/blob/main/Vim.md)
